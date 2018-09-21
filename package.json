@@ -1,0 +1,15 @@
+{
+  "name": "mockeur",
+  "version": "0.1.0",
+  "description": "Easily mock APIs on your local machine.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassen Taidirt <htaidirt@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

@@ -1,0 +1,6 @@
+[{
+    "method": "GET",
+    "path": "/test",
+    "status": 200,
+    "body": "example.json"
+}]
